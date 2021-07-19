@@ -1,2 +1,0 @@
-INSERT INTO `Glasses` (`ProductId`, `Gender`, `Shape`, `Material`, `LensWidth`, `LensWidthWithoutFrame`, `LensHeight`, `ArmLength`, `BridgeWidth`) VALUES ('1', '2', 'Star', 'Fire', '10', '10', '10', '10', '10');
-INSERT INTO `Glasses` (`ProductId`, `Gender`, `Shape`, `Material`, `LensWidth`, `LensWidthWithoutFrame`, `LensHeight`, `ArmLength`, `BridgeWidth`) VALUES ('1', '2', 'Round', 'Wood', '12', '10', '15', '8', '10');
