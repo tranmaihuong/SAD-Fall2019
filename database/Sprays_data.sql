@@ -1,0 +1,1 @@
+INSERT INTO `sprays` (`ProductId`, `Type`) VALUES ('1', 'Mist');
